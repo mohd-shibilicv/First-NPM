@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "homepage": "https://google.com",
   "repository": {
-    "url": "https://github.com/mohd-shibilicv/first-npm"
+    "url": "https://github.com/mohd-shibilicv/First-NPM"
   },
   "scripts": {
     "build": "tsup"

@@ -42,7 +42,7 @@ This library is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 
 ## Contributing
 
-Contributions welcome! Please open issues or PRs on [GitHub](https://github.com/mohd-shibilicv/first-npm).
+Contributions welcome! Please open issues or PRs on [GitHub](https://github.com/mohd-shibilicv/First-NPM).
 
 ## Author
 
