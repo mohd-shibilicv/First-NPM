@@ -1,6 +1,6 @@
 {
   "name": "first-npm-by-shibilicv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It's my first npm package. This is a test package created for learning how to publish to npm.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
