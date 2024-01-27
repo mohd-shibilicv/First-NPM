@@ -15,11 +15,18 @@ npm install first-npm-by-shibilicv
 Import the library functions and use them:
 
 ```typescript
-import { greet, add } from 'test-typescript-lib';
+import { sayHello, sayHelloProps } from 'first-npm-by-shibilicv';
 
-greet('John'); // Hello John
+// Define the props
+const user: sayHelloProps = {
+  firstName: 'John',
+  lastName: 'Doe',
+  age: 25,
+};
 
-add(1, 2); // 3
+// Use the function
+sayHello(user);
+
 ```
 
 ## Getting Started
