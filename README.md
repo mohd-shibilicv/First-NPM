@@ -1,6 +1,5 @@
-## My First NPM Package - Shibilicv
+# First NPM package by shibilicv
 
-# MyTestLibrary
 
 This is a simple test library written in TypeScript for learning how to publish TypeScript packages to NPM.
 
