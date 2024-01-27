@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "strictNullChecks": true,
+        "target": "ES2022",
+        "moduleResolution": "Node10",
+        "module": "CommonJS",
+        "declaration": true,
+        "isolatedModules": true,
+        "noEmit": true,
+        "outDir": "dist"
+    },
+    "include": ["src"],
+    "exclude": ["node_modules"]
+}
+
+// This tsconfig.json configuration is tailored for a project using TypeScript with strict type-checking, ECMAScript 2022 target, CommonJS module system, and generating declaration files in the "dist" directory. The file structure assumes that your TypeScript source code is in the "src" directory, and you want to exclude the "node_modules" directory from compilation.

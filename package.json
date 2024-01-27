@@ -1,0 +1,27 @@
+{
+  "name": "first-npm-by-shibilicv",
+  "version": "1.0.0",
+  "description": "It's my first npm package. This is a test package created for learning how to publish to npm.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://google.com",
+  "repository": {
+    "url": "https://github.com/mohd-shibilicv/first-npm"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "learn npm",
+    "first npm",
+    "test npm",
+    "test package"
+  ],
+  "author": "shibilicv",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  }
+}
